@@ -5,7 +5,7 @@
 I am passionate about creating intuitive and visually appealing user interfaces. Currently, I am focusing on improving my web development skills by working on various projects.
 
 - 🛒 I’m currently working on an **Amazon Clone** project using HTML and CSS, which you can find here: [Amazon Clone](https://github.com/sukhada35/amazon-clone)
-- 🌱 I’m currently learning **JavaScript, TailwindCSS and Figma**
+- 🌱 I’m currently learning **JavaScript, TailwindCSS and DSA**
 - 🤝 I’m looking for help with **Web dev and design projects**
 - 📫 How to reach me: **svvgulhane@gmail.com**
 - ⚡ Fun fact: **I like cats hehe :3**
