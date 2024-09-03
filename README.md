@@ -8,7 +8,7 @@ I am passionate about creating intuitive and visually appealing user interfaces.
 - 🌱 I’m currently learning **DSA, TailwindCSS and JavaScript**
 - 🤝 I’m looking for help with **Web dev and design projects**
 - 📫 How to reach me: **svvgulhane@gmail.com**
-- ⚡ Fun fact: **I like cats hehe :3**
+- ⚡ Fun fact: **I like cats hehehe :3**
 
 ## Projects
 - [Titanic Survivability Rate](https://github.com/ashmit27j/Tech-project-modified) - An ML project analyzing Titanic survivability rates.
