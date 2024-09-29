@@ -13,6 +13,7 @@ I am passionate about creating intuitive and visually appealing user interfaces.
 ## Projects
 - [Titanic Survivability Rate](https://github.com/ashmit27j/Tech-project-modified) - An ML project analyzing Titanic survivability rates.
 - [Amazon Clone](https://github.com/sukhada35/amazon-clone) - A clone of the Amazon website using HTML and CSS.
+- [Sudoku](https://github.com/sukhada35/Sudoku) - A C++ project that provides a Sudoku solver, allowing users to input puzzles and receive feedback on their solutions.
 
 ## Connect with me
 <p align="left">
