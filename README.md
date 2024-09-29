@@ -4,7 +4,7 @@
 ## About Me
 I am passionate about creating intuitive and visually appealing user interfaces. Currently, I am focusing on improving my web development skills by working on various projects.
 
-- 🛒 I’m currently working on an **Amazon Clone** project using HTML and CSS, which you can find here: [Amazon Clone](https://github.com/sukhada35/amazon-clone)
+- 🛒 I’m currently working on an **Sudku** project using C++, which you can find here: [Sudoku](https://github.com/sukhada35/Sudoku)
 - 🌱 I’m currently learning **DSA, TailwindCSS and JavaScript**
 - 🤝 I’m looking for help with **Web dev and design projects**
 - 📫 How to reach me: **svvgulhane@gmail.com**
