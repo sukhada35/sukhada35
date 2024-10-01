@@ -1,12 +1,12 @@
 <h1 align="center">I'm Sukhada Gulhane</h1>
-<h3 align="center">A budding UI/UX Designer</h3>
 
 ## About Me
-I am passionate about creating intuitive and visually appealing user interfaces. Currently, I am focusing on improving my web development skills by working on various projects.
+I am passionate about problem-solving and creating intuitive user interfaces. Currently, I am focusing on improving my skills in **DSA** and exploring **ML** by working on various projects.
 
-- 🛒 I’m currently working on an **Sudku** project using C++, which you can find here: [Sudoku](https://github.com/sukhada35/Sudoku)
-- 🌱 I’m currently learning **DSA, TailwindCSS and JavaScript**
-- 🤝 I’m looking for help with **Web dev and design projects**
+
+- 🛒 I’m currently working on an **Sudoku** project using C++, which you can find here: [Sudoku](https://github.com/sukhada35/Sudoku)
+- 🌱 I’m currently learning **DSA & ML**
+- 🤝 I’m looking for help with **ML projects**
 - 📫 How to reach me: **svvgulhane@gmail.com**
 - ⚡ Fun fact: **I like cats hehehe :3**
 
