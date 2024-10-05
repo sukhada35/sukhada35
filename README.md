@@ -8,7 +8,6 @@ I am passionate about problem-solving and creating intuitive user interfaces. Cu
 - 🌱 I’m currently learning **DSA & ML**
 - 🤝 I’m looking for help with **ML projects**
 - 📫 How to reach me: **svvgulhane@gmail.com**
-- ⚡ Fun fact: **I like cats hehehe :3**
 
 ## Projects
 - [Titanic Survivability Rate](https://github.com/ashmit27j/Tech-project-modified) - An ML project analyzing Titanic survivability rates.
