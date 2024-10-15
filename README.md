@@ -1,7 +1,7 @@
 <h1 align="center">I'm Sukhada Gulhane</h1>
 
 ## About Me
-I am passionate about problem-solving and creating intuitive user interfaces. Currently, I am focusing on improving my skills in **DSA** and exploring **ML** by working on various projects.
+I am passionate about problem-solving and creating intuitive user interfaces. Currently, I am focusing on improving my skills in **DSA** and exploring **ML** by working on various projects..
 
 
 - 🛒 I’m currently working on an **Sudoku** project using C++, which you can find here: [Sudoku](https://github.com/sukhada35/Sudoku)
