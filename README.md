@@ -43,4 +43,3 @@ I am passionate about problem-solving and creating intuitive user interfaces. Cu
   </a>
 </p>
 
-..
