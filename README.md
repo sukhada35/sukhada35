@@ -12,6 +12,7 @@ I’m passionate about problem-solving and creating intuitive user interfaces. C
 - [Amazon Clone](https://github.com/sukhada35/amazon-clone) – A clone of the Amazon website using HTML and CSS.
 - [Sudoku](https://github.com/sukhada35/Sudoku) – A C++ project that solves Sudoku puzzles and provides real-time feedback.
 - [College Buddy](https://github.com/sukhada35/College-Buddy) – A web app to help college students form groups, communicate, and collaborate effectively.
+- [ATM-Simulator](https://github.com/sukhada35/ATM-Simulator) 
 
 ## Connect With Me
 <p align="left">
