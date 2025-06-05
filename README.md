@@ -1,10 +1,10 @@
 <h1 align="center">I'm Sukhada Gulhane</h1>
 
 ## About Me
-I’m passionate about problem-solving and creating intuitive user interfaces. Currently, I’m focusing on improving my skills in **Data Structures and Algorithms (DSA)** and exploring **React.js** by working on real-world projects.
+I’m passionate about problem-solving and creating intuitive user interfaces. Currently, I’m focusing on improving my skills in **App Development** and exploring **React.js** by working on real-world projects.
 
-- 🚀 Currently working on a **College Buddy** web application to help students collaborate and connect – [View Project](https://github.com/sukhada35/College-Buddy)
-- 🌱 Learning **React.js** and **Tailwind CSS**
+- 🚀 Currently learning Kotlin 
+- 🌱 Learning **React.js** and **Kotlin**
 - 📫 Reach me at: **sukhadag35@gmail.com**
 
 ## Projects
