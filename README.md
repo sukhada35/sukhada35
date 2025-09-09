@@ -1,18 +1,21 @@
 <h1 align="center">I'm Sukhada Gulhane</h1>
 
 ## About Me
-I’m passionate about problem-solving and creating intuitive user interfaces. Currently, I’m focusing on improving my skills in **App Development** and exploring **React.js** by working on real-world projects.
+I’m passionate about problem-solving, building intuitive user interfaces, and creating impactful projects.  
+Currently, I’m focusing on **App Development** with **Kotlin & Jetpack Compose** and exploring **Web Development** using **React.js**.  
 
-- 🚀 Currently learning Kotlin 
-- 🌱 Learning **React.js** and **Kotlin**
+- 🚀 Currently learning **Kotlin (Jetpack Compose)** for Android Development  
+- 🌱 Exploring **React.js** for web development  
+- 💻 Comfortable with **C++ (DSA)** and building projects in it  
+- 🎯 Interested in UI/UX design and creating user-friendly experiences  
 - 📫 Reach me at: **sukhadag35@gmail.com**
 
 ## Projects
-- [Titanic Survivability Rate](https://github.com/ashmit27j/Tech-project-modified) – An ML project analyzing Titanic survivability rates.
-- [Amazon Clone](https://github.com/sukhada35/amazon-clone) – A clone of the Amazon website using HTML and CSS.
-- [Sudoku](https://github.com/sukhada35/Sudoku) – A C++ project that solves Sudoku puzzles and provides real-time feedback.
-- [College Buddy](https://github.com/sukhada35/College-Buddy) – A web app to help college students form groups, communicate, and collaborate effectively.
-- [ATM-Simulator](https://github.com/sukhada35/ATM-Simulator) 
+- [Titanic Survivability Rate](https://github.com/ashmit27j/Tech-project-modified) – An ML project analyzing Titanic survivability rates.  
+- [Amazon Clone](https://github.com/sukhada35/amazon-clone) – A clone of the Amazon website using HTML and CSS.  
+- [Sudoku](https://github.com/sukhada35/Sudoku) – A C++ project that solves Sudoku puzzles and provides real-time feedback.  
+- [College Buddy](https://github.com/sukhada35/College-Buddy) – A web app to help college students form groups, communicate, and collaborate effectively.  
+- [ATM-Simulator](https://github.com/sukhada35/ATM-Simulator) – A Java Swing project simulating ATM operations with OOP concepts and MySQL backend.  
 
 ## Connect With Me
 <p align="left">
@@ -44,5 +47,13 @@ I’m passionate about problem-solving and creating intuitive user interfaces. C
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  </a>
 </p>
-
